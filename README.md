@@ -9,22 +9,22 @@ Modal
 Toast
 
 
-<img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/1.png" width="30%" />
+<img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/1.png" width="60%" />
 
 
-<img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/2.png" width="30%" />
+<img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/2.png" width="60%" />
 
 
-<img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/3.png" width="30%"/>
+<img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/3.png" width="60%"/>
 
 
-<img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/4.png" width="30%" />
+<img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/4.png" width="60%" />
 
 
-<img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/5.png" width="30%" />
+<img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/5.png" width="60%" />
 
 
-<img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/6.png" width="40%" />
+<img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/6.png" width="60%" />
 
 ---
 使用方法:
