@@ -9,6 +9,9 @@ Modal
 Toast
 
 
+<img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/1.png" width="150" height="100" align="middle" />
+
+
 ![Image text](https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/1.png)
 
 ![Image text](https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/2.png)
