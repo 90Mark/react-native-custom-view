@@ -12,17 +12,19 @@ Toast
 <img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/1.png" width="150" height="100" align="middle" />
 
 
-![Image text](https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/1.png)
+<img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/2png" width="150" height="100" align="middle" />
 
-![Image text](https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/2.png)
 
-![Image text](https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/3.png)
+<img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/3.png" width="150" height="100" align="middle" />
 
-![Image text](https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/4.png)
 
-![Image text](https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/5.png)
+<img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/4.png" width="150" height="100" align="middle" />
 
-![Image text](https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/6.png)
+
+<img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/5.png" width="150" height="100" align="middle" />
+
+
+<img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/6.png" width="150" height="100" align="middle" />
 
 
 ---
