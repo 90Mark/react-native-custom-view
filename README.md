@@ -10,7 +10,13 @@ Toast
 
 ---
 
-使用方法  
+使用方法:
+
+安装
+
+
+    npm install react-native-custom-view --save
+
 导入
 
     import { Dialog, Loading, Modal, Toast} from 'react-native-custom-view'
