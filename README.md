@@ -8,8 +8,21 @@ Loading
 Modal
 Toast
 
----
 
+![Image text](https://github.com/90Mark/react-native-custom/view/blob/master/readmeRes/1.png)
+
+![Image text](https://github.com/90Mark/react-native-custom/view/blob/master/readmeRes/2.png)
+
+![Image text](https://github.com/90Mark/react-native-custom/view/blob/master/readmeRes/3.png)
+
+![Image text](https://github.com/90Mark/react-native-custom/view/blob/master/readmeRes/4.png)
+
+![Image text](https://github.com/90Mark/react-native-custom/view/blob/master/readmeRes/5.png)
+
+![Image text](https://github.com/90Mark/react-native-custom/view/blob/master/readmeRes/6.png)
+
+
+---
 使用方法:
 
 安装
