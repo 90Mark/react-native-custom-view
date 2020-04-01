@@ -26,6 +26,8 @@ Toast
 
 <img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/6.png" width="40%" />
 
+![Image text](https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/4.png =150x100)
+
 
 ---
 使用方法:
