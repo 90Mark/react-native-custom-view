@@ -8,6 +8,7 @@ Loading
 Modal
 Toast
 
+---
 
 使用方法  
 导入
@@ -18,7 +19,8 @@ Toast
 具体可参考源码，这里列举的是常用的方法
 
 
----Dialog---
+---
+-Dialog---
 
    * @note leftVisible 显示左侧按钮
    * @note canHide 可以隐藏（返回键、点击空白区域）
@@ -48,7 +50,8 @@ Toast
 
 
 
----Toast---
+---
+-Toast---
 
 // 普通吐司
 
@@ -61,7 +64,8 @@ Toast
     Toast.showWarning('message')
 
 
----Loading---
+---
+-Loading---
 
 带菊花的loading
 
@@ -73,7 +77,8 @@ Toast
 
 
 
----Modal---
+---
+-Modal---
 
 
    * @param options 参数
@@ -88,3 +93,10 @@ Toast
     Modal.hide(modal, onDismiss)
 
 
+
+---
+   其他不常用的可参考源码
+
+   有任何疑问或建议可在评论区留言
+    
+_by  Mark001
