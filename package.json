@@ -1,0 +1,32 @@
+{
+  "name": "react-native-custom-view",
+  "version": "1.0.2",
+  "description": "自定义view,包含dialog,loading,modal,toast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/90Mark/react-native-custom-view.git"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "rn",
+    "dialog",
+    "loading",
+    "modal",
+    "toast"
+  ],
+  "author": "90Mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/90Mark/react-native-custom-view/issues"
+  },
+  "homepage": "https://github.com/90Mark/react-native-custom-view#readme",
+  "dependencies": {
+    "react-native-root-siblings": "^4.0.6"
+  }
+}
