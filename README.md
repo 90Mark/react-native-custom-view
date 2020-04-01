@@ -12,7 +12,7 @@ Toast
 <img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/1.png" width="150" height="100" align="middle" />
 
 
-<img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/2png" width="150" height="100" align="middle" />
+<img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/2.png" width="150" height="100" align="middle" />
 
 
 <img src="https://github.com/90Mark/react-native-custom-view/blob/master/readmeRes/3.png" width="150" height="100" align="middle" />
