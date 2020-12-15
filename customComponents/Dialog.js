@@ -78,9 +78,13 @@ const onPress = (block, onDismiss) => {
 const render = (options) => {
   const { title, message, canHide, leftVisible, leftPress, leftColor, leftText, rightPress, rightColor, rightText, onDismiss, titleColor, messageStyle, messageColor, titleSize, subMessage, subMessageStyle, messageTextSize } = options
   const windowHeight = Dimensions.get('window').height
+  const windowWidth = Dimensions.get('window').width
   return (
     <TouchableWithoutFeedback onPress={() => { canHide && Dialog.hide(onDismiss) }}>
-      <View style={[styles.content, { height: windowHeight - 0.1 }]}>
+      <View style={[styles.content, {
+        height: windowHeight - StyleSheet.hairlineWidth,
+        width: windowWidth - StyleSheet.hairlineWidth
+      }]}>
         <TouchableWithoutFeedback>
           <View style={styles.dialog}>
             <Text

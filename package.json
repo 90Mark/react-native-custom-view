@@ -1,6 +1,6 @@
 {
   "name": "react-native-custom-view",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "自定义view,包含dialog,loading,modal,toast",
   "main": "index.js",
   "scripts": {
