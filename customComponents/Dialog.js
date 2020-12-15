@@ -77,8 +77,8 @@ const onPress = (block, onDismiss) => {
 
 const render = (options) => {
   const { title, message, canHide, leftVisible, leftPress, leftColor, leftText, rightPress, rightColor, rightText, onDismiss, titleColor, messageStyle, messageColor, titleSize, subMessage, subMessageStyle, messageTextSize } = options
-  const windowHeight = Dimensions.get('window').height
-  const windowWidth = Dimensions.get('window').width
+  const windowHeight = Math.max(Dimensions.get('window').height, Dimensions.get('screen').height)
+  const windowWidth = Math.max(Dimensions.get('window').width, Dimensions.get('screen').width)
   return (
     <TouchableWithoutFeedback onPress={() => { canHide && Dialog.hide(onDismiss) }}>
       <View style={[styles.content, {
