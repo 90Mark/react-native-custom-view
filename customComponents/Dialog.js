@@ -2,7 +2,7 @@
  * Created by Mark on 2020/3/17.
  */
 import React from 'react'
-import { StyleSheet, Text, TouchableHighlight, TouchableWithoutFeedback, View } from 'react-native'
+import { Dimensions, StyleSheet, Text, TouchableHighlight, TouchableWithoutFeedback, View } from 'react-native'
 
 import { Colors, Strings } from '../res'
 import Modal from './Modal'
@@ -77,9 +77,10 @@ const onPress = (block, onDismiss) => {
 
 const render = (options) => {
   const { title, message, canHide, leftVisible, leftPress, leftColor, leftText, rightPress, rightColor, rightText, onDismiss, titleColor, messageStyle, messageColor, titleSize, subMessage, subMessageStyle, messageTextSize } = options
+  const windowHeight = Dimensions.get('window').height
   return (
     <TouchableWithoutFeedback onPress={() => { canHide && Dialog.hide(onDismiss) }}>
-      <View style={styles.content}>
+      <View style={[styles.content, { height: windowHeight - 0.1 }]}>
         <TouchableWithoutFeedback>
           <View style={styles.dialog}>
             <Text
