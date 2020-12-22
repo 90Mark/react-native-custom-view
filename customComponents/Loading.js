@@ -48,7 +48,7 @@ function _renderView (text) {
   return (
     <View style={styles.container}>
       <View style={styles.blackView}>
-        <ActivityIndicator size='large' />
+        <ActivityIndicator size='large' color={Colors.grey_b0b0b0}/>
         {text ? (
           <Text style={styles.TextStyle}>
             {text}

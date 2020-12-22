@@ -12,6 +12,7 @@ module.exports = {
   grey_333333: '#333333',
   grey_3a3a3a: '#3a3a3a',
   grey_f7f7f7: '#f7f7f7',
+  grey_b0b0b0: '#b0b0b0',
   blackAlpha_10: '#0000001a',
   blackAlpha_20: '#00000033',
   blackAlpha_30: '#0000004d',
